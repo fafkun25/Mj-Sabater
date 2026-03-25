@@ -14,7 +14,10 @@ I am Computer science student and an aspiring **Front-End Developer**. I focus o
 - **Frameworks:**
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** 
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### Current Project
 - **Pizza Order System:** Building a responsive dashboard and menu for a local pizza business.
